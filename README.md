@@ -1,10 +1,9 @@
  # Olá!! Eu sou o Henrique Plech
 📜- Faço Bacharelado de Ciencia da Computação</br>
-🖥️- Gosto de Ciencia de Dados</br>
-🐈- Tenho 4 gatas</br>
+🖥️- Afinidade com de Ciencia de Dados</br>
 🕹️- Gamer</br>
 🦓- Me chamam de Zebra</br>
-💵- Comprem Criptomoedas!</br>
+💵- Entendedor de criptos</br>
 
   <div align="center">
   <a href="https://github.com/henriqueplech">
