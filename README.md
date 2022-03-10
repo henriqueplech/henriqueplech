@@ -1,17 +1,16 @@
-<div align="center">
-  <a href="https://github.com/henriqueplech">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriqueplech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueplech&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-# Olá!! Eu sou o Henrique Plech
-
+ # Olá!! Eu sou o Henrique Plech
 📜- Faço Bacharelado de Ciencia da Computação</br>
 🖥️- Gosto de Ciencia de Dados</br>
 🐈- Tenho 4 gatas</br>
 🕹️- Gamer</br>
 🦓- Me chamam de Zebra</br>
 💵- Comprem Criptomoedas!</br>
+
+  <div align="center">
+  <a href="https://github.com/henriqueplech">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriqueplech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueplech&layout=compact&langs_count=7&theme=dark"/>
+  </div>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
