@@ -1,5 +1,5 @@
  # Olá!! Eu sou o Henrique Plech
-📜- Faço Bacharelado de Ciencia da Computação</br>
+📜- Faço Bacharelado em Engenharia de Software</br>
 🖥️- Afinidade com de Ciencia de Dados</br>
 🕹️- Gamer</br>
 🦓- Me chamam de Zebra</br>
