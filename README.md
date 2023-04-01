@@ -1,10 +1,10 @@
  <div align="center">
  # Olá!! Eu sou o Henrique Plech
-📜- Faço Bacharelado em Engenharia de Software</br>
+📜- Faço Bacharelado em Engenharia de Software
 🖥️- Afinidade com de Ciencia de Dados</br>
-🕹️- Gamer</br>
+🕹️- Gamer
 🦓- Me chamam de Zebra</br>
-💵- Entendedor de criptos</br>
+💵- Entendedor de criptos
  </div>
 
   <div align="center">
