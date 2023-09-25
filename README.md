@@ -1,5 +1,5 @@
- <div align="center">
- <h1># Hii!! My name is Henrique Plech</h1>
+<h1 align="center"># Hii!! My name is Henrique Plech</h1>
+ <div>
 📜- Software Engineer bachelor´s</br>
 🖥️- I like data analytics</br>
 🕹️- Gamer</br>
