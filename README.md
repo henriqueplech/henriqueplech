@@ -9,8 +9,8 @@
 
   <div align="center">
   <a href="https://github.com/henriqueplech">
-   [![henriqueplech's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueplech)](https://github.com/henriqueplech/github-readme-stats)
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueplech&layout=compact&langs_count=7&theme=dark"/>
+     [![henriqueplech's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueplech)](https://github.com/henriqueplech/github-readme-stats)
   </div>
 
   <div style="display: inline_block" align="center"><br>
@@ -44,4 +44,3 @@
   </div>
  
   ![Snake animation](https://github.com/henriqueplech/henriqueplech/blob/output/github-contribution-grid-snake.svg)
-  [![henriqueplech's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueplech)](https://github.com/henriqueplech/github-readme-stats)
