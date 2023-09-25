@@ -10,7 +10,6 @@
   <div align="center">
   <a href="https://github.com/henriqueplech">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueplech&layout=compact&langs_count=7&theme=dark"/>
-     <img [![henriqueplech's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueplech)](https://github.com/henriqueplech/github-readme-stats)/>
   </div>
 
   <div style="display: inline_block" align="center"><br>
@@ -42,5 +41,4 @@
   <a href = "mailto:henriqueferrario@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-ferrario-plech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
- 
-  ![Snake animation](https://github.com/henriqueplech/henriqueplech/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/henriqueplech/henriqueplech/blob/output/github-contribution-grid-snake.svg)
