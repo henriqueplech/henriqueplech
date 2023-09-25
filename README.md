@@ -1,10 +1,10 @@
  <div align="center">
- <h1># Olá!! Eu sou o Henrique Plech</h1>
-📜- Faço Bacharelado em Engenharia de Software</br>
-🖥️- Afinidade com de Ciencia de Dados</br>
+ <h1># Hii!! My name is Henrique Plech</h1>
+📜- Software Engineer bachelor´s</br>
+🖥️- I like data analytics</br>
 🕹️- Gamer</br>
-🦓- Me chamam de Zebra</br>
-💵- Entendedor de criptos</br>
+🦓- They call me zebra</br>
+💵- I love crypto</br>
  </div>
 
   <div align="center">
