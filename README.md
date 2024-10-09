@@ -1,3 +1,4 @@
+![snake gif](https://github.com/henriqueplech/README.md/blob/output/github-contribution-grid-snake.svg)
 <h1 align="center"># Hii!! My name is Henrique Plech</h1>
  <div>
 📜- Software Engineer bachelor´s</br>
@@ -8,6 +9,7 @@
  </div>
 
   <div align="center">
+   <p>NEXT | REACT | TS | HTML5 and CSS3 | PYTHON </p>
   <a href="https://github.com/henriqueplech">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueplech&layout=compact&langs_count=7&theme=dark"/>
   </div>
@@ -41,6 +43,3 @@
   <a href = "mailto:henriqueferrario@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-ferrario-plech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
-<div>
- ![snake gif](https://github.com/henriqueplech/README.md/blob/output/github-contribution-grid-snake.svg)
-</div>
