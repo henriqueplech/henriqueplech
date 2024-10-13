@@ -1,8 +1,8 @@
 <h1 align="center"># Hii!! My name is Henrique Plech</h1>
  <div>
 📜- Software Engineer bachelor´s</br>
-🖥️- I like data analytics</br>
-🕹️- Gamer</br>
+🖥️- I like dev with Next</br>
+🕹️- Let's play some... lol?!</br>
 🦓- They call me zebra</br>
 💵- I love crypto</br>
  </div>
