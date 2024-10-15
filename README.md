@@ -7,8 +7,11 @@
 💵- I love crypto</br>
  </div>
 
+
+  
   <div align="center">
    <p>NEXT | REACT | TS | HTML5 and CSS3 | PYTHON </p>
+   <a href"https://personal-portifolio-89a4.vercel.app/">Clique aqui para conferir meu portifolio pessoal!</a>
   <a href="https://github.com/henriqueplech">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueplech&layout=compact&langs_count=7&theme=dark"/>
   </div>
