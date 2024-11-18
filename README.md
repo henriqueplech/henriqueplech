@@ -8,7 +8,7 @@
  </div>
 
 
-   <a align="center" href="https://new-portifolio2024.vercel.app/">portifolio pessoal!</a>
+   <a align="center" href="https://new-portifolio2024.vercel.app/">My Website Resume!</a>
   <div align="center">
    <p>NEXT | REACT | TS | HTML5 and CSS3 | PYTHON </p>
   <a href="https://github.com/henriqueplech">
