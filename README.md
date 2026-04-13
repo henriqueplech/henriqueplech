@@ -4,12 +4,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=750&height=110&lines=Hey%2C+I'm+Henrique+'Zebra'+Plech+%F0%9F%91%8B;Full-Stack+Dev+%7C+Data+Engineering+%7C+IoT;Information+Systems+%40+Alagoas+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 
 <br/>
+<br/>
 
 <p align="center">
   <em>
     Building modern interfaces with <strong>React & Next.js</strong>, robust APIs with <strong>Python & Node.js</strong>,<br/>
     and exploring the frontier of <strong>Data Engineering & IoT</strong>.<br/>
-    Optimizing code by day, fixing the Fusca by night. 🚗💨
+    Optimizing code by day, fixing my car by night. 🚗💨
   </em>
 </p>
 
