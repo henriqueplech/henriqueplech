@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&width=750&height=110&lines=Hey%2C+I'm+Henrique+'Zebra'+Plech+%F0%9F%91%8B;Full-Stack+Dev+%7C+Data+Engineering+%7C+IoT;Information+Systems+%40+Alagoas+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+<!-- TYPING ANIMATION — cor azul ciano -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=750&height=110&lines=Hey%2C+I'm+Henrique+'Zebra'+Plech+%F0%9F%91%8B;Full-Stack+Dev+%7C+Data+Engineering+%7C+IoT;Information+Systems+%40+Alagoas+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=henriqueplech&label=Profile+Views&color=BD93F9&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=henriqueplech&label=Profile+Views&color=00B4D8&style=flat-square" />
 
 </div>
 
@@ -101,13 +101,13 @@ console.log(henrique.getCurrentFocus());
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=henriqueplech&show_icons=true&theme=dracula&border_radius=10&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=henriqueplech&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
   height="165"
   alt="GitHub Stats"
 />
 &nbsp;&nbsp;
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueplech&layout=compact&theme=dracula&border_radius=10&hide_border=true&langs_count=8"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueplech&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8"
   height="165"
   alt="Top Languages"
 />
@@ -115,7 +115,7 @@ console.log(henrique.getCurrentFocus());
 <br/><br/>
 
 <img
-  src="https://streak-stats.demolab.com?user=henriqueplech&theme=dracula&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D"
+  src="https://streak-stats.demolab.com?user=henriqueplech&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D"
   height="160"
   alt="GitHub Streak"
 />
@@ -123,7 +123,7 @@ console.log(henrique.getCurrentFocus());
 <br/><br/>
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=henriqueplech&theme=dracula&no-frame=true&margin-w=8&column=7"
+  src="https://github-profile-trophy.vercel.app/?username=henriqueplech&theme=tokyonight&no-frame=true&margin-w=8&column=7"
   alt="GitHub Trophies"
 />
 
@@ -135,23 +135,60 @@ console.log(henrique.getCurrentFocus());
 
 <div align="center">
 
-<a href="https://github.com/henriqueplech/API-Binance">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriqueplech&repo=API-Binance&theme=dracula&hide_border=true&border_radius=10" />
-</a>
-&nbsp;
-<a href="https://github.com/henriqueplech/social-network-ignite-ts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriqueplech&repo=social-network-ignite-ts&theme=dracula&hide_border=true&border_radius=10" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/henriqueplech/chronos-pomodoro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriqueplech&repo=chronos-pomodoro&theme=dracula&hide_border=true&border_radius=10" />
-</a>
-&nbsp;
-<a href="https://github.com/henriqueplech/whatsapp-chatbot-cesmac">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriqueplech&repo=whatsapp-chatbot-cesmac&theme=dracula&hide_border=true&border_radius=10" />
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 API-Binance</h3>
+      <p>Integration with the Binance API for fetching crypto market data, price tracking and financial analysis automation.</p>
+      <a href="https://github.com/henriqueplech/API-Binance">
+        <img src="https://img.shields.io/badge/View%20Repo-00B4D8?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/henriqueplech/API-Binance?style=flat-square&color=FFB703&label=⭐ Stars" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Binance%20API-F0B90B?style=flat-square&logo=binance&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Social Network (Ignite TS)</h3>
+      <p>A full social network UI built with React & TypeScript during the Rocketseat Ignite bootcamp, featuring posts, comments and avatar updates.</p>
+      <a href="https://github.com/henriqueplech/social-network-ignite-ts">
+        <img src="https://img.shields.io/badge/View%20Repo-00B4D8?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/henriqueplech/social-network-ignite-ts?style=flat-square&color=FFB703&label=⭐ Stars" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⏱️ Chronos Pomodoro</h3>
+      <p>A productivity timer app using the Pomodoro technique, built with React and TypeScript. Supports custom cycles and session history.</p>
+      <a href="https://github.com/henriqueplech/chronos-pomodoro">
+        <img src="https://img.shields.io/badge/View%20Repo-00B4D8?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/henriqueplech/chronos-pomodoro?style=flat-square&color=FFB703&label=⭐ Stars" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 WhatsApp Chatbot — CESMAC</h3>
+      <p>Automated WhatsApp chatbot built for CESMAC university, handling student queries, scheduling and FAQs via the WhatsApp Business API.</p>
+      <a href="https://github.com/henriqueplech/whatsapp-chatbot-cesmac">
+        <img src="https://img.shields.io/badge/View%20Repo-00B4D8?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/henriqueplech/whatsapp-chatbot-cesmac?style=flat-square&color=FFB703&label=⭐ Stars" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -162,7 +199,7 @@ console.log(henrique.getCurrentFocus());
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=henriqueplech&theme=dracula&hide_border=true&radius=6&area=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=henriqueplech&theme=tokyo-night&hide_border=true&radius=6&area=true"
   alt="Contribution Graph"
 />
 
@@ -185,9 +222,9 @@ console.log(henrique.getCurrentFocus());
 <div align="center">
   <em>"First, solve the problem. Then, write the code."</em>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-✅-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-✅-00B4D8?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Freelance-Available-BD93F9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Freelance-Available-FFB703?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Maceió%2C%20AL-Brazil%20🇧🇷-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Maceió%2C%20AL-Brazil%20🇧🇷-0077B6?style=flat-square" />
 </div>
