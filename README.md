@@ -1,14 +1,16 @@
 <div align="center">
 
-<!-- BANNER / TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Henrique+Plech+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Go+%7C+Rust+%7C+TypeScript" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&width=750&height=110&lines=Hey%2C+I'm+Henrique+'Zebra'+Plech+%F0%9F%91%8B;Full-Stack+Dev+%7C+Data+Engineering+%7C+IoT;Information+Systems+%40+Alagoas+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 
 <br/>
 
-<!-- BRIEF BIO -->
 <p align="center">
-  <em>Building scalable systems and elegant UIs — from distributed backends in <strong>Go & Rust</strong> to modern frontends with <strong>Next.js & TypeScript</strong>.<br/>
-  Passionate about clean architecture, developer experience and high-performance software.</em>
+  <em>
+    Building modern interfaces with <strong>React & Next.js</strong>, robust APIs with <strong>Python & Node.js</strong>,<br/>
+    and exploring the frontier of <strong>Data Engineering & IoT</strong>.<br/>
+    Optimizing code by day, fixing the Fusca by night. 🚗💨
+  </em>
 </p>
 
 <br/>
@@ -19,18 +21,17 @@
 </a>
 &nbsp;
 <a href="https://x.com/henriqueplech11">
-  <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 &nbsp;
 <a href="mailto:henriqueplech1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<!-- PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=henriqueplech&label=Profile+Views&color=BD93F9&style=flat-square" />
 
 </div>
@@ -40,16 +41,37 @@
 ## 🧠 About Me
 
 ```typescript
-const zebra = {
-  name:        "Henrique 'Zebra' Plech",
-  role:        "Front-End Developer & Information Systems Student",
-  location:    "Maceió, AL - Brazil 🇧🇷",
-  focus:       ["React", "Next.js", "Python"],
-  currently:   "Building a Smart Phishing Simulator (SaaS) & Home Medical Apps",
-  learning:    ["Data Engineering (ETL)", "Databases", "Arduino"],
-  hobby:       "Maintaining VW Fusca 🚗",
-  funFact:     "I want play some Fortnite.",
-};
+interface DeveloperSkills {
+  frontend:        string[];
+  backend:         string[];
+  dataEngineering: string[];
+  iot:             string[];
+}
+
+class ZebraEngine {
+  private readonly name     = "Henrique 'Zebra' Plech";
+  private readonly location = "Maceió, AL — Brazil 🇧🇷";
+  private readonly academic = "Information Systems @ Alagoas";
+
+  private readonly stack: DeveloperSkills = {
+    frontend:        ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend:         ["Python (FastAPI / Flask)", "Node.js", "PHP"],
+    dataEngineering: ["ETL Pipelines", "Database Design (SQL/NoSQL)", "Data Analysis"],
+    iot:             ["Arduino", "Tinkercad Prototyping"],
+  };
+
+  public getCurrentFocus() {
+    return {
+      building: ["Smart Phishing Simulator (SaaS) 🛡️", "Home Medical Apps 🏥"],
+      learning: ["Data Engineering (ETL)", "Databases", "Arduino"],
+      hobby:    "Maintaining VW Fusca 🚗",
+      funFact:  "I just want to play some Fortnite. 🎮",
+    };
+  }
+}
+
+const henrique = new ZebraEngine();
+console.log(henrique.getCurrentFocus());
 ```
 
 ---
@@ -59,16 +81,16 @@ const zebra = {
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=ts,go,rust,py&theme=dark&perline=6" height="52" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,php&theme=dark" height="52" />
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,graphql&theme=dark&perline=6" height="52" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="52" />
 
-### ⚙️ Backend & Infra
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,redis,docker,aws&theme=dark&perline=6" height="52" />
+### ⚙️ Backend & Data
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,mongodb,redis&theme=dark" height="52" />
 
-### 🧰 Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma&theme=dark&perline=6" height="52" />
+### 🔌 IoT & Tools
+<img src="https://skillicons.dev/icons?i=arduino,docker,git,github,linux,vscode&theme=dark" height="52" />
 
 </div>
 
@@ -78,18 +100,32 @@ const zebra = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=henriqueplech&show_icons=true&theme=dracula&border_radius=10&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="160" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=henriqueplech&show_icons=true&theme=dracula&border_radius=10&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+  height="165"
+  alt="GitHub Stats"
+/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueplech&layout=compact&theme=dracula&border_radius=10&hide_border=true&langs_count=8" height="160" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueplech&layout=compact&theme=dracula&border_radius=10&hide_border=true&langs_count=8"
+  height="165"
+  alt="Top Languages"
+/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=henriqueplech&theme=dracula&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="155" />
+<img
+  src="https://streak-stats.demolab.com?user=henriqueplech&theme=dracula&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D"
+  height="160"
+  alt="GitHub Streak"
+/>
 
 <br/><br/>
 
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=henriqueplech&theme=dracula&no-frame=true&margin-w=6&column=7" />
+<img
+  src="https://github-profile-trophy.vercel.app/?username=henriqueplech&theme=dracula&no-frame=true&margin-w=8&column=7"
+  alt="GitHub Trophies"
+/>
 
 </div>
 
@@ -97,26 +133,24 @@ const zebra = {
 
 ## 🚀 Featured Projects
 
-> ⭐ Projects I'm most proud of — replace descriptions with your own!
-
 <div align="center">
 
 <a href="https://github.com/henriqueplech/API-Binance">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriqueplech&repo=SEU_REPO_1&theme=dracula&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriqueplech&repo=API-Binance&theme=dracula&hide_border=true&border_radius=10" />
 </a>
 &nbsp;
 <a href="https://github.com/henriqueplech/social-network-ignite-ts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriqueplech&repo=SEU_REPO_2&theme=dracula&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriqueplech&repo=social-network-ignite-ts&theme=dracula&hide_border=true&border_radius=10" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/henriqueplech/chronos-pomodoro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriqueplech&repo=SEU_REPO_3&theme=dracula&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriqueplech&repo=chronos-pomodoro&theme=dracula&hide_border=true&border_radius=10" />
 </a>
 &nbsp;
 <a href="https://github.com/henriqueplech/whatsapp-chatbot-cesmac">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriqueplech&repo=SEU_REPO_4&theme=dracula&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriqueplech&repo=whatsapp-chatbot-cesmac&theme=dracula&hide_border=true&border_radius=10" />
 </a>
 
 </div>
@@ -127,7 +161,10 @@ const zebra = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=henriqueplech&theme=dracula&hide_border=true&radius=6&area=true" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=henriqueplech&theme=dracula&hide_border=true&radius=6&area=true"
+  alt="Contribution Graph"
+/>
 
 </div>
 
@@ -146,9 +183,11 @@ const zebra = {
 ---
 
 <div align="center">
-  <em>"First, solve the problem. Then, write the code." – John Johnson</em>
+  <em>"First, solve the problem. Then, write the code."</em>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-✅%20Available-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-✅-brightgreen?style=flat-square" />
   &nbsp;
   <img src="https://img.shields.io/badge/Freelance-Available-BD93F9?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Maceió%2C%20AL-Brazil%20🇧🇷-green?style=flat-square" />
 </div>
