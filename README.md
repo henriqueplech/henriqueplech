@@ -40,13 +40,15 @@
 ## 🧠 About Me
 
 ```typescript
-const henrique = {
-  role:       "Full-Stack Software Engineer",
-  location:   "Brazil 🇧🇷",
-  focus:      ["High-Performance APIs", "Distributed Systems", "Modern Web"],
-  currently:  "Building scalable backend services with Go & Rust",
-  learning:   ["WebAssembly", "System Design at Scale"],
-  funFact:    "I debug in production... just kidding. Sometimes.",
+const zebra = {
+  name:        "Henrique 'Zebra' Plech",
+  role:        "Front-End Developer & Information Systems Student",
+  location:    "Maceió, AL - Brazil 🇧🇷",
+  focus:       ["React", "Next.js", "Python"],
+  currently:   "Building a Smart Phishing Simulator (SaaS) & Home Medical Apps",
+  learning:    ["Data Engineering (ETL)", "Databases", "Arduino"],
+  hobby:       "Maintaining VW Fusca 🚗",
+  funFact:     "I want play some Fortnite.",
 };
 ```
 
